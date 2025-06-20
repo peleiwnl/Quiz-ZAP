@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#3B7DD8</color>
+    <color name="gray">#DCDCDC</color>
+    <color name="gray2">#BEBEBE</color>
+    <color name="orange">#FCA019</color>
+    <color name="background_colour">#F7F7F7</color>
+    <color name="blue_text">#00BFFF</color>
+    <color name="red">#F44336</color>
+    <color name="red_button_fill">#42F44336</color>
+    <color name="background_primary">#1F1E1D</color>
+    <color name="background_primary_with_opacity">#E12D2D2D</color>
+    <color name="background_secondary">#383838</color>
+    <color name="background_tertiary">#302E2B</color>
+    <color name="fifth_background">#22201E</color>
+    <color name="colour_shading">#DFDFD9</color>
+    <color name="colour_tertiary">#F9F8F4</color>
+    <color name="colour_secondary">#EFD30B</color>
+    <color name="colour_primary">#D16002</color>
+    <color name="light_yellow">#E8D074</color>
+    <color name="secondary_text">#B2B1B1</color>
+    <color name="background_button_colour">#413E3C</color>
+    <color name="toolbar_colour">#333331</color>
+    <color name="fourth_background">#21211F</color>
+    <color name="dark_gray">#333333</color>
+    <color name="Charcoal">#222222</color>
+    <color name="light_gray">#FAFAFA</color>
+    <color name="gold">#FFD700</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="bronze">#CD7F32</color>
+
+
+</resources>
